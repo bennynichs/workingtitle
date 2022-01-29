@@ -1,9 +1,9 @@
 # workingtitle
 ## Meta Theme
 ### This is not a book; this is the creation of a book.
-This repo will serve intitially as log the author's research, works-in-progress, and synchronized commentary.
+This repo will serve intitially as a log of the author's research, works-in-progress, and synchronized commentary.
 
-In the long shot chance that this work gains an audience, additions and subtractions will entertaine with the perspective of outsourcing editorial work to the community.
+In the long shot chance that this work gains an audience, additions and subtractions will be entertained from the perspective of crowdsourcing editorial work to the community.
 
 ## Main Themes
 
