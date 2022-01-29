@@ -13,16 +13,15 @@ At its onset, the nature of this work involves the extension and possible conclu
 - Machine Learning/Recommender Systems/Natural Language Processing
 - Identify Management/ Bio Authentication
 - Zero Trust Network/Zero Knowledge Proof
+- Wearable Technology/ Augmented Reality
+- User Experience/ Universal Design
 
 ### Government
-I 
-direct democracy. individuals contribute to the function of the govenment in stead of by proxy of an elected official. 
+With realtime, distributed, trusted, networked systems, proxies can be abolished and the power of society put into the hands of the individual, yielding a technocratic indirect democracy. No more elections, formal committes, or political parties yielding distributed authority. How far can this concept be extended?...
 
 
-## Influences
-- <b> Isaac Asimov's Foundation Series</b>: Where psychohistory is the main character and the human characters just serve to push the agenda forward.
-- <b> Neil Stephenson's Snow Crash</b>:
-- <b> William Gibson's Neuromancer</b>:
-- <b> George Orwell's 1984</b>:
-- <b> Jared Diamond's Guns, Germs, and Steel</b>:
-- <b> Yuval Noah Harari Homo Deus</b>:
+## Direct Influences
+- <b> Isaac Asimov's Foundation Series</b>: Where psychohistory is the main character and the human characters primarily serve to push the agenda forward.
+- <b> Neil Stephenson's Snow Crash</b>: Novel exposition setting/world buildin; blends of mysticism, cult-behavior, and blending of technology adn biology to manipulate the masses.
+- <b> George Orwell's 1984</b>: Specifically "The Theory and Practice of Oligarchical Collectivism", the book within the book 1984 and the socio-political feedback mechanisms.
+- <b> Jared Diamond's Guns, Germs, and Steel</b>: How environments influence populations and power structures.
