@@ -1,4 +1,5 @@
 # workingtitle
+Copyright © 2022 bennynichs
 ## Meta Theme
 ### This is not a book; this is the creation of a book.
 This repo will serve intitially as a log of the author's research, works-in-progress, and synchronized commentary.
