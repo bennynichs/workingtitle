@@ -23,10 +23,18 @@ With realtime, distributed, trusted, networked systems, proxies can be abolished
 
 ## Direct Literature Influences
 - <b> Isaac Asimov's Foundation Series</b>: Where psychohistory is the main character and the human characters primarily serve to push the agenda forward.
-- <b> Neil Stephenson's Snow Crash</b>: Novel exposition setting/world building; blends of mysticism, cult-behavior, and blending of technology and biology to manipulate the masses.
+- <b> Neil Stephenson's Snow Crash</b>:  Exposition setting and world building; Pseudo-historical rationalization and mysticism, cult-behavior, and blending of technology and biology for manipulate.
 - <b> George Orwell's 1984</b>: Specifically "The Theory and Practice of Oligarchical Collectivism", the book within the book 1984 and the sociopolitical feedback mechanisms.
 - <b> Jared Diamond's Guns, Germs, and Steel</b>: How environments influence populations and power structures.
-- <b> Cixin Liu's 3 Body Problem<b>: Specifically the plot device of the Wall Facer Project.
+- <b> Cixin Liu's 3 Body Problem</b>: Specifically the plot device of the Wall Facer Project.
 
-## Miscellaneous
+## Ownership
 Copyright © 2022 bennynichs
+
+#### My intention is to publish this book and a packaged representation of the book building process for monetary gain.
+
+If anyone decides to voluntarily contribute ideas, research, or feedback to this project, please realize that these recommendations may be adopted, verbatim or in spirit. By contributing to this repo you are forfeiting your ownership of that committed content as it pertains to this book being built.
+
+Please do not fork this repo without my written permission. I understand that this is not enforceable, but at the time of writing, I simply do not see an altruistic purpose of doing so.
+
+If anyone attempts to capitalize financially from the content of this creative endeavour without my written permission, you will be in violation of copyright law and may be subject to legal action.

@@ -1,7 +1,8 @@
 # who
-Me, Ben Nichols, a 32 year old technology enthusiast from upstate New York. My life has been filled with opportunity, circumstance, and good luck. My particular discipline has always been the business and user application of software, from inception, to execution, to iteration, and ultimately its possible decommission. In my business life I am a chameleon - looking and playing whatever part is needed to get the job done, like a good capitalist; in my academic life I try to bring energy and engagement to my students; in my private life I'm a societal hedonist - enjoying life's spoils and maximally striving for the American dream, while reveling in the journey.
+Me, [Ben Nichols](https://www.linkedin.com/in/ben-nichols/), a 32 year old technology enthusiast from upstate New York. 
+My life has been filled with opportunity, circumstance, and good luck. My particular discipline has always been the business and user application of software, from inception, to execution, to iteration, and ultimately its possible decommission. In my business life I am a chameleon - looking and playing whatever part is needed to get the job done, like a good capitalist; in my academic life I try to bring energy and engagement to my students; in my private life I'm a societal hedonist - enjoying life's spoils and maximally striving for the American dream, while reveling in the journey.
 
-I have a few things working to my advantage in this novel pursuit:
+I have a few things working to my advantage in this pursuit:
 - I have read some of the 50 most well renowned science fiction novels in the past 2 years
 - I refuse to remain idle
 - I am perpetually learning and the topics for the book fall within my personal curricula
@@ -25,7 +26,7 @@ Now, once a theme for the book was conceived - direct-democratic society with gu
 - If this book were ever a success, it proves that anyone can write a book!
 - If this book were ever a success, the change log can be studied for understanding the human creative process of invention.
 - The book experience can allow for creating a captivated audience before the book is even sent to a publisher, making financing and funding an easier acquisition, or even self accomplished.
-- Accept ideas, revisions from the community to make the book better than it would have been as its sole contributor.
+- Accept ideas and revisions from the community to make the book better than it would have been with me as its sole contributor.
 
 
 # when
@@ -33,7 +34,7 @@ I am starting this journey on a Saturday in January. The weather in Upstate NY i
 This project will likely be a multiyear effort, no promises that it will even be finished. Thank you for your patience.
 
 # where
-From my home in Upstate NY and synced with github. As an audio-book and e-reader, I want the final form to be multi-media formatted: hard copy, electronic copy, audio, and graphical as well.
+From my home in Upstate NY and synced with github. As an audio-book and e-read consumer, I want the final form to be multi-media formatted: hard copy, electronic copy, audio, and graphical as well.
 
 # why
 There are a number of reads why I am writing this book and meta-book:
@@ -52,6 +53,6 @@ There are a number of reads why I am writing this book and meta-book:
 <i>I have unwavering confidence that I can achieve anything I but my mind and enough attention towards</i> <b>(see above)</b>. This brute force approach to accomplishing anything happens via the following activities:
 - Research: books, articles, interviews, youtube, among other avenues
 - Breaking difficult problems into smaller more manageable chunks
-- Decomposing a problem through abstraction and first planning from high level, working out the journey, then executing
+- Decomposing a problem through abstraction and first planning from a high-level by working out the journey, then execution
 - Relaying on examples and templates, but also recognizing when to deviate and act independently
-- First building a fully realized world behind the scenes which informs behavior: individual and societal
+- First building a fully realized world behind the scenes which then informs behavior, both of individuals and societies
