@@ -2,7 +2,7 @@
 This is me writing a book, writing about writing a book, eventually assembling a physical/digital representation of the book, and tracking the progress of all these activities. As far as I know there is no name for this set of related functions, so henceforth I'll refer to the general contributions to this body of work as "book building". 
 
 ## Meta Theme
-### Book Building: This is not just a book; this is also the creation of a book.
+#### Book Building: This is not just a book; this is also the creation of a book.
 This repo will serve initially as a log of research, works-in-progress, and synchronized commentary.
 
 In the long shot chance that this work gains an audience, additions and subtractions will be entertained from the perspective of crowd sourcing editorial work to the community.
