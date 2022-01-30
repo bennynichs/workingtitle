@@ -2,7 +2,7 @@
 Copyright © 2022 bennynichs
 ## Meta Theme
 ### This is not a book; this is the creation of a book.
-This repo will serve initially as a log of the author's research, works-in-progress, and synchronized commentary.
+This repo will serve initially as a log of research, works-in-progress, and synchronized commentary.
 
 In the long shot chance that this work gains an audience, additions and subtractions will be entertained from the perspective of crowd sourcing editorial work to the community.
 
